@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jfgjg\\Desktop\\Rocketseat C#\\1\\Opera\u00E7\u00F5es com texto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB625CD-7367-45FA-8F55-08F6A92AB33A}|Opera\u00E7\u00F5es com texto\\oPERATIONS.csproj|c:\\users\\jfgjg\\desktop\\rocketseat c#\\1\\opera\u00E7\u00F5es com texto\\opera\u00E7\u00F5es com texto\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB625CD-7367-45FA-8F55-08F6A92AB33A}|Opera\u00E7\u00F5es com texto\\oPERATIONS.csproj|solutionrelative:opera\u00E7\u00F5es com texto\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB625CD-7367-45FA-8F55-08F6A92AB33A}|Opera\u00E7\u00F5es com texto\\oPERATIONS.csproj|c:\\users\\jfgjg\\desktop\\rocketseat c#\\1\\opera\u00E7\u00F5es com texto\\opera\u00E7\u00F5es com texto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB625CD-7367-45FA-8F55-08F6A92AB33A}|Opera\u00E7\u00F5es com texto\\oPERATIONS.csproj|solutionrelative:opera\u00E7\u00F5es com texto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\jfgjg\\Desktop\\Rocketseat C#\\1\\Opera\u00E7\u00F5es com texto\\Opera\u00E7\u00F5es com texto\\User.cs",
+              "RelativeDocumentMoniker": "Opera\u00E7\u00F5es com texto\\User.cs",
+              "ToolTip": "C:\\Users\\jfgjg\\Desktop\\Rocketseat C#\\1\\Opera\u00E7\u00F5es com texto\\Opera\u00E7\u00F5es com texto\\User.cs",
+              "RelativeToolTip": "Opera\u00E7\u00F5es com texto\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T03:14:20.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jfgjg\\Desktop\\Rocketseat C#\\1\\Opera\u00E7\u00F5es com texto\\Opera\u00E7\u00F5es com texto\\Program.cs",
+              "RelativeDocumentMoniker": "Opera\u00E7\u00F5es com texto\\Program.cs",
+              "ToolTip": "C:\\Users\\jfgjg\\Desktop\\Rocketseat C#\\1\\Opera\u00E7\u00F5es com texto\\Opera\u00E7\u00F5es com texto\\Program.cs",
+              "RelativeToolTip": "Opera\u00E7\u00F5es com texto\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:07:57.128Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

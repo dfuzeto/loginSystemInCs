@@ -1,0 +1,14 @@
+C:\Users\jfgjg\Desktop\Rocketseat C#\1\Operações com texto\Operações com texto\bin\Debug\net8.0\oPERATIONS.exe
+C:\Users\jfgjg\Desktop\Rocketseat C#\1\Operações com texto\Operações com texto\bin\Debug\net8.0\oPERATIONS.deps.json
+C:\Users\jfgjg\Desktop\Rocketseat C#\1\Operações com texto\Operações com texto\bin\Debug\net8.0\oPERATIONS.runtimeconfig.json
+C:\Users\jfgjg\Desktop\Rocketseat C#\1\Operações com texto\Operações com texto\bin\Debug\net8.0\oPERATIONS.dll
+C:\Users\jfgjg\Desktop\Rocketseat C#\1\Operações com texto\Operações com texto\bin\Debug\net8.0\oPERATIONS.pdb
+C:\Users\jfgjg\Desktop\Rocketseat C#\1\Operações com texto\Operações com texto\obj\Debug\net8.0\oPERATIONS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jfgjg\Desktop\Rocketseat C#\1\Operações com texto\Operações com texto\obj\Debug\net8.0\oPERATIONS.AssemblyInfoInputs.cache
+C:\Users\jfgjg\Desktop\Rocketseat C#\1\Operações com texto\Operações com texto\obj\Debug\net8.0\oPERATIONS.AssemblyInfo.cs
+C:\Users\jfgjg\Desktop\Rocketseat C#\1\Operações com texto\Operações com texto\obj\Debug\net8.0\oPERATIONS.csproj.CoreCompileInputs.cache
+C:\Users\jfgjg\Desktop\Rocketseat C#\1\Operações com texto\Operações com texto\obj\Debug\net8.0\oPERATIONS.dll
+C:\Users\jfgjg\Desktop\Rocketseat C#\1\Operações com texto\Operações com texto\obj\Debug\net8.0\refint\oPERATIONS.dll
+C:\Users\jfgjg\Desktop\Rocketseat C#\1\Operações com texto\Operações com texto\obj\Debug\net8.0\oPERATIONS.pdb
+C:\Users\jfgjg\Desktop\Rocketseat C#\1\Operações com texto\Operações com texto\obj\Debug\net8.0\oPERATIONS.genruntimeconfig.cache
+C:\Users\jfgjg\Desktop\Rocketseat C#\1\Operações com texto\Operações com texto\obj\Debug\net8.0\ref\oPERATIONS.dll
