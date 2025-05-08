@@ -1,0 +1,1 @@
+Esse é um projetinho simples que desenvolvi para praticar conceitos básicos de C#, com foco em programação orientada a objetos (POO). A aplicação simula um sistema de login e registro de usuários utilizando o console, sem uso de banco de dados nem persistência em arquivos (por enquanto).
